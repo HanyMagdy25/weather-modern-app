@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weather-modern-app/static/css/main.8159e7e9.css",
+    "main.js": "/weather-modern-app/static/js/main.6827e3ba.js",
+    "index.html": "/weather-modern-app/index.html",
+    "main.8159e7e9.css.map": "/weather-modern-app/static/css/main.8159e7e9.css.map",
+    "main.6827e3ba.js.map": "/weather-modern-app/static/js/main.6827e3ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8159e7e9.css",
+    "static/js/main.6827e3ba.js"
+  ]
+}
